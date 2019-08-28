@@ -56,7 +56,7 @@ export default function LoginForm(props) {
             <input value="New Party" className="Submit-Button" />
             <label>
               <input
-                backgroundColor="rgba(255,255,0,0.9)"
+                style={{ backgroundColor: 'rgba(0,0,0,0.0)' }}
                 type="text"
                 value={newPartyName}
                 placeholder="New Party Name"
