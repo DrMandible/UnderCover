@@ -9,7 +9,7 @@
     "@material-ui/icons": "4.2.1",
     "babel-core": "6.26.3",
     "currency.js": "1.2.2",
-    "express": "4.17.1",
+    "express": "4.19.2",
     "express-favicon": "2.0.1",
     "mui-datatables": "2.9.0",
     "path": "0.12.7",
